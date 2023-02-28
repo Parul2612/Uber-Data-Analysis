@@ -9,3 +9,6 @@ The code is written in a Jupyter Notebook with a Python 3.6 kernel, and in addit
 + Matplotlib 
 * Seaborn (version: 0.6.0)
 - sklearn
+## Application
+Companies will be able to comprehend the background of various operations through the analysis. Understanding complex data and gaining insights that can assist businesses in making decisions are advantages.
+This data visualization will help to understand the data and get a sense of pricing background for the people who take the trips.
